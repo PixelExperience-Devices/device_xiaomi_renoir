@@ -124,7 +124,6 @@ void vendor_load_properties() {
                 fingerprint = "Xiaomi/renoir/renoir:11/RKQ1.201112.002/V12.5.5.0.RKIMIXM:user/release-keys";
                 description = "renoir-user 11 RKQ1.201112.002 V12.5.5.0.RKIMIXM release-keys";
                 mod_device = "renoir_global";
-            }
         }
 
     set_ro_build_prop("fingerprint", fingerprint);
