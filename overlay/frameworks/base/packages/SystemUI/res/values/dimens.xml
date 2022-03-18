@@ -6,6 +6,8 @@
 -->
 
 <resources>
-	<dimen name="status_bar_padding_top">32px</dimen>
-    <dimen name="rounded_corner_content_padding">47px</dimen>
+    <dimen name="status_bar_padding_top">10dp</dimen>
+    <dimen name="status_bar_padding_start">0dp</dimen>
+    <dimen name="status_bar_padding_end">4dp</dimen>
+    <dimen name="rounded_corner_content_padding">16dp</dimen>
 </resources>
