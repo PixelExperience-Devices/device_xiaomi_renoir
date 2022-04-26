@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "remote": "pixel",
+    "branch": "twelve"
+  },
+  {
+    "repository": "kernel_xiaomi_sm7350",
+    "target_path": "kernel/xiaomi/sm7350",
+    "remote": "pixel-devices",
+    "branch": "twelve-plus"
+  },
+  {
+    "repository": "device_xiaomi_sm7350-common",
+    "target_path": "device/xiaomi/sm7350-common",
+    "remote": "pixel-devices",
+    "branch": "twelve-plus"
+  },
+  {
+    "repository": "vendor_xiaomi_sm7350-common",
+    "target_path": "vendor/xiaomi/sm7350-common",
+    "remote": "pixel-devices-blobs",
+    "branch": "twelve"
+  },
+  {
+    "repository": "vendor_xiaomi_renoir",
+    "target_path": "vendor/xiaomi/renoir",
+    "remote": "pixel-devices-blobs",
+    "branch": "twelve"
+  }
+]
