@@ -15,7 +15,7 @@
     "repository": "device_xiaomi_sm7350-common",
     "target_path": "device/xiaomi/sm7350-common",
     "remote": "pixel-devices",
-    "branch": "twelve-plus"
+    "branch": "twelve_plus-wip"
   },
   {
     "repository": "vendor_xiaomi_sm7350-common",
