@@ -21,7 +21,7 @@
     "repository": "vendor_xiaomi_sm7350-common",
     "target_path": "vendor/xiaomi/sm7350-common",
     "remote": "pixel-devices-blobs",
-    "branch": "twelve"
+    "branch": "twelve-plus-wip"
   },
   {
     "repository": "vendor_xiaomi_renoir",
