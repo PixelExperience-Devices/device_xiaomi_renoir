@@ -29,4 +29,7 @@
     <bool name="config_roundedCornerMultipleRadius">true</bool>
 
     <string name="config_rounded_mask" translatable="false">M 140 0 C 29 0 0 29 0 140</string>
+
+    <!-- StatusBar burn-in protection -->
+    <bool name="config_statusBarBurnInProtection">true</bool>
 </resources>
