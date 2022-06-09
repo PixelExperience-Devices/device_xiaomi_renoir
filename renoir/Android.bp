@@ -1,5 +1,0 @@
-soong_namespace {
-    imports: [
-        "device/xiaomi/sm7350-common",
-    ],
-}
