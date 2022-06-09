@@ -22,6 +22,6 @@ PRODUCT_NAME := corvus_renoir
 
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
-# USE_GAPPS := true
+USE_GAPPS := true
 CORVUS_MAINTAINER=Mejsi
 
