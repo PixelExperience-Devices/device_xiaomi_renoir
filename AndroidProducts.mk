@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_renoir.mk
+    $(LOCAL_DIR)/corvus_renoir.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_renoir-user \
-    aosp_renoir-userdebug \
-    aosp_renoir-eng
+    corvus_renoir-user \
+    corvus_renoir-userdebug \
+    corvus_renoir-eng

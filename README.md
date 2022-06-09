@@ -24,3 +24,4 @@ Camera  | 64 MP main, 8 MP ultra-wide angle, 5 MP telemacro, 29 MP front
 ## Device picture
 
 ![Xiaomi Mi 11 Lite 5G](https://i01.appmifile.com/webfile/globalimg/products/pc/mi-11-lite-5g/specs01.png "Xiaomi Mi 11 Lite 5G")
+# Renoir-bringup
