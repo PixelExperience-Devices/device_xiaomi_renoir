@@ -1,3 +1,5 @@
+# All unpinned blobs below are extracted from renoir_global-user 12 RKQ1.211001.001 V13.0.4.0.SKIMIXM release-keys
+
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
@@ -75,6 +77,7 @@ vendor/lib/libadm.so
 vendor/lib/libaudio_log_utils.so
 vendor/lib/libaudioparsers.so
 vendor/lib/libaudioroute_ext.so
+vendor/lib/libresampler.so
 vendor/lib/libhdmipassthru.so
 vendor/lib/libqtigef.so
 vendor/lib/libssrec.so
@@ -267,6 +270,8 @@ vendor/lib64/com.qti.feature2.frameselect.so
 vendor/lib64/com.qti.feature2.fusion.so
 vendor/lib64/com.qti.feature2.generic.so
 vendor/lib64/com.qti.feature2.gs.sm8350.so
+vendor/lib64/com.qti.feature2.ellcprocess.so
+vendor/lib64/com.qti.feature2.ellcsupernight.so
 vendor/lib64/com.qti.feature2.hdr.so
 vendor/lib64/com.qti.feature2.mcreprocrt.so
 vendor/lib64/com.qti.feature2.memcpy.so
@@ -300,6 +305,7 @@ vendor/lib64/hw/camera.xiaomi.so
 vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/libAF.so
 vendor/lib64/libaidenoiser.so
+vendor/lib64/libaidenoiserv2.so
 vendor/lib64/libalAILDC.so
 vendor/lib64/libalCFR.so
 vendor/lib64/libalhLDC.so
@@ -362,7 +368,6 @@ vendor/lib64/libmialgo_ie_capture.so
 vendor/lib64/libmialgo_ie_preview.so
 vendor/lib64/libmialgo_image_colourkeeping.so
 vendor/lib64/libmialgo_pureShot.so
-vendor/lib64/libmialgo_pureShot.so
 vendor/lib64/libmialgo_rfs.so
 vendor/lib64/libmialgo_sd.so
 vendor/lib64/libmialgo_utils.so
@@ -419,7 +424,8 @@ vendor/lib64/libxmi_high_dynamic_range.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 vendor/lib64/vendor.xiaomi.hardware.campostproc@1.0-service-impl.so
 vendor/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
-
+vendor/lib64/vendor.xiaomi.hardware.cameraperf@1.0-impl.so
+vendor/lib64/vendor.xiaomi.hardware.cameraperf@1.0.so
 # Charger (Mi Turbo Charge)
 vendor/bin/batterysecret
 
@@ -639,6 +645,7 @@ vendor/etc/sensors/config/sns_mag_cal.json
 vendor/etc/sensors/config/sns_mag_cal_legacy.json
 vendor/etc/sensors/config/sns_multishake.json
 vendor/etc/sensors/config/sns_nonui.json
+vendor/etc/sensors/config/sns_oem13.json
 vendor/etc/sensors/config/sns_pedometer.json
 vendor/etc/sensors/config/sns_rmd.json
 vendor/etc/sensors/config/sns_rotv.json
@@ -695,9 +702,10 @@ vendor/firmware/goodix_gt9897t_cfg_k9.bin
 vendor/firmware/goodix_gt9897t_fw_k9.bin
 
 # Vibrator effects
-vendor/firmware/seq_bin_wav1.bin
-vendor/firmware/seq_bin_wav2.bin|f9211d22648de1f32690592097f53fe1a4f36565
-vendor/firmware/seq_bin_wav3.bin
-vendor/firmware/seq_bin_wav4.bin
-vendor/firmware/seq_bin_wav5.bin
-vendor/firmware/seq_bin_wav6.bin
+vendor/firmware/0_click_P_RTP.bin
+vendor/firmware/1_doubelClick_P_RTP.bin
+vendor/firmware/2_tick_P_RTP.bin
+vendor/firmware/3_thud_P_RTP.bin
+vendor/firmware/4_pop_P_RTP.bin
+vendor/firmware/5_heavyClick_P_RTP.bin
+
