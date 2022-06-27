@@ -28,5 +28,11 @@
     "target_path": "vendor/xiaomi/renoir",
     "remote": "pixel-devices-blobs",
     "branch": "twelve"
+  },
+  {
+    "repository": "vendor_xiaomi_renoir-firmware",
+    "target_path": "vendor/xiaomi/renoir-firmware",
+    "remote": "pixel-devices-blobs",
+    "branch": "twelve"
   }
 ]
