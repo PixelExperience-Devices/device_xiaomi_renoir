@@ -6,7 +6,7 @@
 
 DEVICE_PATH := device/xiaomi/renoir
 
-# Inherit from sm8350-common
+# Inherit from sm7350-common
 include device/xiaomi/sm7350-common/BoardConfigCommon.mk
 
 # Board
@@ -36,3 +36,4 @@ SOONG_CONFIG_xiaomiSm8350Vars_vibrator_use_effect_stream := true
 
 # Include proprietary files
 -include vendor/xiaomi/renoir/BoardConfigVendor.mk
+-include vendor/xiaomi/renoir-firmware/BoardConfigVendor.mk
