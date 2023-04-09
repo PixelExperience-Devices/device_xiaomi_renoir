@@ -15,6 +15,9 @@ TARGET_BOOTLOADER_BOARD_NAME := renoir
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/renoir_QGKI.config
 
+# Firmware
+-include vendor/xiaomi/renoir-firmware/BoardConfigVendor.mk
+
 # Kernel modules
 BOOT_KERNEL_MODULES := \
     focaltech_touch.ko \
