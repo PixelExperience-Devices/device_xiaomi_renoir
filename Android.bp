@@ -1,5 +1,5 @@
 soong_namespace {
     imports: [
-        "device/xiaomi/sm8350-common",
+        "device/xiaomi/sm7350-common",
     ],
 }

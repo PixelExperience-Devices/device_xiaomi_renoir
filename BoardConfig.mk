@@ -6,8 +6,8 @@
 
 DEVICE_PATH := device/xiaomi/renoir
 
-# Inherit from sm8350-common
-include device/xiaomi/sm8350-common/BoardConfigCommon.mk
+# Inherit from sm7350-common
+include device/xiaomi/sm7350-common/BoardConfigCommon.mk
 
 # Board
 TARGET_BOOTLOADER_BOARD_NAME := renoir
