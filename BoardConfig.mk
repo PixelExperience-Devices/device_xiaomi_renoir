@@ -41,3 +41,6 @@ SOONG_CONFIG_xiaomiSm8350Vars_vibrator_use_effect_stream := true
 
 # Include proprietary files
 include vendor/xiaomi/renoir/BoardConfigVendor.mk
+
+# Camera override hidl
+TARGET_CAMERA_USES_NEWER_HIDL_OVERRIDE_FORMAT := true
